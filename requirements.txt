@@ -1,0 +1,19 @@
+# Core Deep Learning & Audio
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy>=1.23.0,<2.0.0
+scipy>=1.10.0
+soundfile>=0.12.1
+
+# ONNX & Optimization
+onnx>=1.14.0
+onnxruntime>=1.16.0
+
+# Text & Utilities
+tqdm>=4.65.0
+unicodedata2>=15.0.0
+huggingface_hub>=0.19.0
+librosa>=0.10.0
+
+# Optional development tools
+pytest>=7.4.0

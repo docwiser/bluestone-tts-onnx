@@ -1,0 +1,20 @@
+{
+  "name": "bluestone-tts-js",
+  "version": "1.0.0",
+  "description": "Ultra-fast CPU Indic TTS inference in pure Node.js using ONNX Runtime",
+  "main": "infer.js",
+  "scripts": {
+    "start": "node infer.js"
+  },
+  "dependencies": {
+    "onnxruntime-node": "^1.16.0"
+  },
+  "keywords": [
+    "tts",
+    "indic",
+    "onnx",
+    "speech-synthesis",
+    "hindi"
+  ],
+  "license": "Apache-2.0"
+}
